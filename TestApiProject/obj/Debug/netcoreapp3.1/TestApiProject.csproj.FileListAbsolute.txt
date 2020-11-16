@@ -301,8 +301,6 @@ D:\TranzitaDemo\TestApiProject\TestApiProject\bin\Debug\netcoreapp3.1\runtimes\w
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.csprojAssemblyReference.cache
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.AssemblyInfoInputs.cache
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.AssemblyInfo.cs
-D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.csproj.CoreCompileInputs.cache
-D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.MvcApplicationPartsAssemblyInfo.cache
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.RazorTargetAssemblyInfo.cache
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.csproj.CopyComplete
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\staticwebassets\TestApiProject.StaticWebAssets.Manifest.cache
@@ -310,3 +308,9 @@ D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\staticweba
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.dll
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.pdb
 D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.genruntimeconfig.cache
+D:\TranzitaDemo\TestApiProject\TestApiProject\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+D:\TranzitaDemo\TestApiProject\TestApiProject\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\TranzitaDemo\TestApiProject\TestApiProject\bin\Debug\netcoreapp3.1\log4net.config
+D:\TranzitaDemo\TestApiProject\TestApiProject\bin\Debug\netcoreapp3.1\log4net.dll
+D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.csproj.CoreCompileInputs.cache
+D:\TranzitaDemo\TestApiProject\TestApiProject\obj\Debug\netcoreapp3.1\TestApiProject.MvcApplicationPartsAssemblyInfo.cache
